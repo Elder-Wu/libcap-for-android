@@ -60,5 +60,5 @@ Andrew G. Morgan <morgan@kernel.org>
 
 1. clone this repository
 2. config your NDK_BUILD path in build.sh file
-3. run `make` in project root
+3. run `make` in project root and ignore error output
 4. run `./build.sh` in project root
