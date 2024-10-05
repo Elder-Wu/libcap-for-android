@@ -62,3 +62,15 @@ Andrew G. Morgan <morgan@kernel.org>
 2. config your NDK_BUILD path in build.sh file
 3. run `make` in project root and **ignore error output**
 4. run `./build.sh` in project root
+
+Or you can choose to download the file directly instead of compiling it yourself.
+Download-URL:https://github.com/Elder-Wu/libcap-for-android/tree/master/libs
+
+## Thanks
+
+1. https://android.googlesource.com/platform/external/libcap
+2. https://github.com/scopichmu/libcap-for-Android
+
+chinese document about this repo : https://wmwm.me/article/630357467217268736
+
+中文文档：https://wmwm.me/article/630357467217268736
