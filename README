@@ -55,3 +55,10 @@ directory, but they are mostly curiosities.
 Cheers
 
 Andrew G. Morgan <morgan@kernel.org>
+
+## usage
+
+1. clone this repository
+2. config your NDK_BUILD path in build.sh file
+3. run `make` in project root
+4. run `./build.sh` in project root
